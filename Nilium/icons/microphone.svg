@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,7 +11,7 @@
    height="22"
    id="svg7229"
    sodipodi:version="0.32"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    version="1.0"
    sodipodi:docname="microphone.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -99,9 +97,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.656854"
-     inkscape:cx="-45.487122"
-     inkscape:cy="6.9811819"
+     inkscape:zoom="11.313708"
+     inkscape:cx="-9.8562588"
+     inkscape:cy="39.296789"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -120,7 +118,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:pagecheckerboard="true" />
+     inkscape:pagecheckerboard="true"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata7234">
     <rdf:RDF>
@@ -350,6 +349,58 @@
          width="6.0276856"
          id="rect991"
          style="opacity:1;fill:#ff2851;fill-opacity:1;stroke:none;stroke-width:2.78386092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       id="8-8-microphone-sensitivity-high"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.912871"
+       d="m 247.53572,378.50505 v 5 h 2 v -5 z m 7,0 v 7 h 1 v -7 z m -2,2 v 3 h 1 v -3 z m -2,2 v 2 h -3 v 1 1 h 2 v -1 h 2 v -1 -2 z" />
+    <g
+       id="8-8-microphone-sensitivity-medium"
+       transform="translate(0.9999984,-1.9999954)">
+      <path
+         id="rect876-3"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.912871"
+         d="m 255.53572,380.50504 v 5 h 2 v -5 z m 5,2 v 3 h 1 v -3 z m -2,2 v 2 h -3 v 1 1 h 2 v -1 h 2 v -1 -2 z"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0"
+         id="rect912"
+         width="1"
+         height="8"
+         x="262.53571"
+         y="380.50504" />
+    </g>
+    <g
+       id="8-8-microphone-sensitivity-low"
+       transform="translate(9.999998,-1.9999954)">
+      <path
+         id="rect876-3-7"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.912871"
+         d="m 255.53572,380.50504 v 5 h 2 v -5 z m 3,4 v 2 h -3 v 1 1 h 2 v -1 h 2 v -1 -2 z"
+         sodipodi:nodetypes="cccccccccccccccc" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0"
+         id="rect912-5"
+         width="1"
+         height="8"
+         x="262.53571"
+         y="380.50504" />
+    </g>
+    <g
+       id="8-8-microphone-sensitivity-muted"
+       transform="translate(0.9999984,-1.9999954)">
+      <path
+         id="rect876-3-7-5"
+         style="fill:#ff2851;fill-opacity:1;stroke-width:0.912871"
+         d="m 273.53572,380.50504 v 5 h 2 v -5 z m 3,4 v 2 h -3 v 1 1 h 2 v -1 h 2 v -1 -2 z"
+         sodipodi:nodetypes="cccccccccccccccc" />
+      <rect
+         style="fill:#ff2851;fill-opacity:1;stroke-width:0.866023"
+         id="rect912-5-6"
+         width="2.9999855"
+         height="2"
+         x="278.53571"
+         y="383.50504" />
     </g>
   </g>
 </svg>

@@ -10,7 +10,7 @@
    viewBox="0 0 32 32"
    id="svg"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    width="32"
    height="32"
    sodipodi:docname="preferences.svg">
@@ -99,26 +99,26 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="0.10196078"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1009"
      id="namedview32"
      showgrid="true"
-     inkscape:zoom="5.656854"
-     inkscape:cx="15.061943"
-     inkscape:cy="7.8707392"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="95.260301"
+     inkscape:cy="-17.998234"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -135,7 +135,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid864"
@@ -602,5 +603,41 @@
        width="22"
        id="rect928-5"
        style="fill:#ffff00;fill-opacity:0" />
+  </g>
+  <g
+     transform="translate(64,-22)"
+     id="22-22-preferences-desktop-notification-bell"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421">
+    <g
+       id="g827-3-6">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccc"
+         id="path2-75"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 8,17 H 4 2 V 2 h 2 14 2 v 15 h -2 -4 l -3,3 z M 3,16 H 8.5 L 11,18.586 13.5,16 H 19 V 15 4 3 H 3 v 1 11 z"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4-6-3"
+         d="M 5,6 H 17 V 7 H 5 Z"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect6-7-5"
+         d="m 5,9 h 12 v 1 H 5 Z"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect8-5-6"
+         d="m 5,12 h 12 v 1 H 5 Z"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke-width:1.00076"
+       id="rect829-35-2"
+       width="22"
+       height="22"
+       x="0"
+       y="0" />
   </g>
 </svg>
